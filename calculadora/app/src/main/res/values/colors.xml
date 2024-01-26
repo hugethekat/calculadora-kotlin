@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gris_numeros">#454545</color>
+    <color name="azul_btnIgual">#007dfe</color>
+    <color name="azul_txtOps">#017cfd</color>
+    <color name="gris_btnOps">#f5f5f5</color>
+    <color name="gris_btnNormalOnClick">#eaeaea</color>
+    <color name="azul_btnIgualOnClick">#0073ea</color>
+</resources>
